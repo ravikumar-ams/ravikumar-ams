@@ -1,3 +1,4 @@
+#!/bin/sh
 pipeline {
     agent any
     stages {
@@ -18,4 +19,5 @@ pipeline {
         }
     }
 }
+
 
